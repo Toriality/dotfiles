@@ -1,0 +1,9 @@
+# ignore all
+*
+# include dotfiles
+!.config
+!.config/nvim
+!.config/nvim/**/*
+!.gitignore
+!.tmux.conf
+!.zshrc
